@@ -21,4 +21,4 @@ We hope that our dashboard will provide reliable backtesting of suburb property 
 ## Additional Features
 If we have enough time, we would like to build on our dashboard to include all Australian suburbs. Future development could also compare other asset classes such as: 
 
-  Australian shares, Australian bonds, International shares, Internation bonds, the most popular ETFs, top 10 cryptocurrencies, term deposits and cash. 
+  Australian shares, Australian bonds, International shares, Internation bonds, the most popular ETFs, top 10 cryptocurrencies, term deposits, cash, collectibles, etc... 
