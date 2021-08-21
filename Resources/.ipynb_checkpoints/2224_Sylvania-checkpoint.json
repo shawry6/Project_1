@@ -1,0 +1,5 @@
+{
+    "type": "https://developer.domain.com.au/docs/latest/conventions/access",
+    "title": "Not Authorized",
+    "detail": "Operation not permitted on project"
+}
